@@ -5,7 +5,7 @@
 
 - 🌱 Currently exploring **Python** for backend development
 
-- 👨‍💻 Check out my work: <a href="https://shoabikhan-portfolio.vercel.app" target="_blank">Portfolio</a>
+- 👨‍💻 Check out my work: <a href="https://shoabikhan-portfolio.vercel.app" target="blank">Portfolio</a>
 
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, Redux, PostgreSQL, MongoDB, AWS**
 
