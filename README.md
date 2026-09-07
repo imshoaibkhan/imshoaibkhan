@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Khan</h1>
-<h3 align="center">Full Stack Developer (MERN / Next.js) building for international clients</h3>
+<h3 align="center">Full Stack Developer (MERN / Next.js)</h3>
 
-- 🚀 Currently building full-stack web applications with **Next.js, React, Node.js & TypeScript** for international clients
+- 🚀 Currently building full-stack web applications with **Next.js, React, Node.js & TypeScript**
 
 - 🌱 Currently exploring **Python** for backend development
 
